@@ -21,7 +21,7 @@ O repositório está organizado da seguinte forma:
 
 - **Trabalho1:** 
 - **Trabalho2:**
-- - **Trabalho2:** 
+- **Trabalho2:** 
 - **Trabalho4:** Prolog
 
 Dentro de cada diretório de trabalho, você encontrará:
