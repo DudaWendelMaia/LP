@@ -1,0 +1,58 @@
+Link: https://replit.com/@marinagelleryam/T3Linguagens#Main.hs
+
+-- Nomes Integrantes: Maria Eduarda Maia, Marina Yamaguti, Paola Lopes
+
+-- Definição do tipo Item
+data Item = Item { nome :: String, preco :: Int } deriving Show
+
+-- Função principal para exibir o menu e interagir com o usuário
+main :: IO ()
+main = do
+    putStrLn "Bem-vindo!"
+    putStrLn "Essa aplicação está aqui para te ajudar na Construção de Prédios :)"
+    menu ([] :: [Item])
+
+-- Função do menu
+menu :: [Item] -> IO ()
+menu itens = do
+    putStrLn "\nMenu Principal:"
+    putStrLn "[1] - Adicionar item na lista"
+    putStrLn "[2] - Listar todos os itens disponíveis"
+    putStrLn "[3] - Sair da aplicação"
+    putStrLn "\nEscolha uma opção: "
+    opcao <- getLine
+
+-- Opções diferentes do menu
+    case opcao of
+        "1" -> do
+            putStrLn "\nDigite o nome do item: "
+            nomeDoItem <- getLine
+            if null nomeDoItem
+                then do
+                    putStrLn "O nome do item não pode ser vazio! Por favor, digite o nome do item."
+                    menu itens
+                else do
+                    putStrLn "\nDigite o preço do item: "
+                    precoDoItem <- getLine
+                    if null precoDoItem
+                        then do
+                            putStrLn "O preço do item não pode ser vazio! Por favor, digite o preço do item."
+                            menu itens
+                        else do
+-- Cria novo item com as Strings de entrada (transforma o preço)
+                            let novoItem = Item { nome = nomeDoItem, preco = read precoDoItem }
+                            menu (itens ++ [novoItem])
+
+-- Printa todos os itens, no vetor menu do tipo [Item]
+        "2" -> do
+            putStrLn "\nItens disponíveis:"
+            mapM_ print itens
+            menu itens
+
+-- Printa mensagem de sair da aplicação e retorna, para parar
+        "3" -> putStrLn "Saindo..." >> return ()
+
+-- Default: mensagem de erro
+        _ -> do
+            putStrLn "Opção inválida! Escolha uma opção válida."
+            menu itens
