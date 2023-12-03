@@ -19,7 +19,7 @@ A disciplina de Linguagens de Programação tem como objetivo:
 
 O repositório está organizado da seguinte forma:
 
-- **Trabalho1:** 
+- **Trabalho1:** gerador automático de analisador sintático (Parser) e Analisador Preditivo Tabular
 - **Trabalho2:**
 - **Trabalho2:** 
 - **Trabalho4:** Prolog
