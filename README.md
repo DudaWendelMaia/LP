@@ -21,7 +21,7 @@ O repositório está organizado da seguinte forma:
 
 - **Trabalho1:** gerador automático de analisador sintático (Parser) e Analisador Preditivo Tabular
 - **Trabalho2:**
-- **Trabalho2:** 
+- **Trabalho3:** Haskell
 - **Trabalho4:** Prolog
 
 Dentro de cada diretório de trabalho, você encontrará:
