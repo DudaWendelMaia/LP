@@ -3,7 +3,7 @@
  <img height=150 width=250 src="https://www.valuehost.com.br/blog/wp-content/uploads/2018/08/228783-linguagem-de-programacao-conheca-x-tendencias-no-mercado-770x429.jpg.webp">
 </div>
 
-Bem-vindo ao repositório de trabalhos da disciplina de Linguagens de Programação! Aqui você encontrará os projetos desenvolvidos ao longo da disciplina realizada em 2023/2.
+Bem-vindo ao repositório da disciplina de Linguagens de Programação! Aqui você encontrará os projetos desenvolvidos ao longo da disciplina realizada em 2023/2.
 
 ## Sobre a Disciplina
 
@@ -19,8 +19,8 @@ A disciplina de Linguagens de Programação tem como objetivo:
 
 O repositório está organizado da seguinte forma:
 
-- **Trabalho1:** gerador automático de analisador sintático (Parser) e Analisador Preditivo Tabular
-- **Trabalho2:**
+- **Trabalho1:** diagramas de transições de estado e Gerador de Analisador Léxico com Flex
+- **Trabalho2:** gerador automático de analisador sintático (Parser) e Analisador Preditivo Tabular
 - **Trabalho3:** Haskell
 - **Trabalho4:** Prolog
 
