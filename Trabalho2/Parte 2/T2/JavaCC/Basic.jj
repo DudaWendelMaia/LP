@@ -1,0 +1,57 @@
+options { 
+    STATIC = false; 
+}
+
+PARSER_BEGIN(MyGrammarParser)
+
+public class MyGrammarParser {
+    public static void main(String[] args) throws ParseException, TokenMgrError {
+        MyGrammarParser parser = new MyGrammarParser(System.in);
+        parser.Start();
+        System.out.println("A entrada está de acordo com a gramática!");
+    }
+}
+
+PARSER_END(MyGrammarParser)
+
+SKIP : { " " | "\t" | "\n" | "\r" }
+
+TOKEN : { 
+    < FOR: "for" > |
+    < ID: ["a"-"z", "A"-"Z"]+ > |
+    < ASSIGN: "=" > |
+    < OP: ["+","-","*","/"] > |
+    < SEMICOLON: ";" > |
+    < LPAREN: "(" > |
+    < RPAREN: ")" >
+}
+
+void Start() :
+{} 
+{
+    S() <EOF>
+}
+
+void S() : 
+{}
+{
+    <FOR> <LPAREN> A() <SEMICOLON> E() <RPAREN> C()
+}
+
+void A() : 
+{}
+{
+    <ID> <ASSIGN> <ID>
+}
+
+void E() : 
+{}
+{
+    <ID> <OP> <ID>
+}
+
+void C() : 
+{}
+{
+    A() | S()
+}
