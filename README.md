@@ -41,9 +41,9 @@ Abaixo, você encontra a organização dos conteúdos presentes neste repositór
 ├── 📁 Trabalho3
 │   ├── 📄 DefinicaoT3.pdf
 │   ├── 📄 T3 Haskel.txt
-│   └── 📄
+│   └── 📄 README.md
 ├── 📁 Trabalho4
-│   ├── 📄 Readme.md
+│   ├── 📄 README.md
 │   ├── 📄 swish.pl
 └── 📄 README.md
 ```
