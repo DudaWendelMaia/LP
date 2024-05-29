@@ -65,16 +65,16 @@ Para explorar os trabalhos:
 ## 🚀 Trabalhos Destaques
 
 ### Trabalho 1: Diagramas e Gerador
-diagramas de transições de estado e Gerador de Analisador Léxico com Flex
+diagramas de transições de estado e Gerador de Analisador Léxico com Flex.
 
 ### Trabalho 2: Gerador Automático
-gerador automático de analisador sintático (Parser) e Analisador Preditivo Tabular
+gerador automático de analisador sintático (Parser) e Analisador Preditivo Tabular.
 
 ### Trabalho 3: Haskell
-
+Aplicação em Haskell que permita criar uma lista de itens para a contrução de um prédio.
 
 ### Trabalho 4: Prolog
-
+Definir e consultar relações familiares em uma árvore genealógica, criar regras e adicionar descendentes.
 
 ## 📫 Contato
 
