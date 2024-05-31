@@ -41,9 +41,11 @@ filho/filha.
 ## ▶️ Como executar
 
 - O código está disponível na pasta "swish.pl", e pode ser executado no site abaixo:
+
   ```sh
   https://swish.swi-prolog.org/
   ```
+
 - Para executar o código, clique no botão Run localizado no canto inferior direito.
 - O console na parte lateral da tela exibirá o programa executando.
 
