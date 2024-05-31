@@ -1,4 +1,4 @@
-# 🔎 Linguagens da Programação
+# 🔎 Análise sintática
 
 <div align="center"> 
 <img width="200" height="200" src="https://media.tenor.com/mqvLadAFFtMAAAAi/thinking-about-question-mark.gif">
@@ -15,8 +15,9 @@
 Este trabalho é dividido em duas partes, os enunciados de cada uma estão em suas devidas pastas.
 
 ## ▶️ Resolução
-Parte 1 – Análise sintática -> contida no relatório dentro da pasta da primeira parte
-Parte 2 – está contida no seguinte vídeo: https://youtu.be/RZLN4MSvdGY?si=VAse4BMQmliHkSAI
+
+- Parte 1 – contida no relatório dentro da pasta da primeira parte
+- Parte 2 – está contida no seguinte vídeo: https://youtu.be/RZLN4MSvdGY?si=VAse4BMQmliHkSAI
 
 ---
 
