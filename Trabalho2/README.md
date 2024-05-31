@@ -1,7 +1,7 @@
 # 🔎 Análise sintática
 
 <div align="center"> 
-<img width="200" height="200" src="https://media.tenor.com/mqvLadAFFtMAAAAi/thinking-about-question-mark.gif">
+<img width="200" height="200" src="https://media.tenor.com/YKA5cWxS6nAAAAAi/kakaotalk-ompangie.gif">
 </div>
 
 ## ℹ️ Informações
