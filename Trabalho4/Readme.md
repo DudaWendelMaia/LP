@@ -7,7 +7,7 @@
 ## ℹ️ Informações
 
 - **Autores:** Maria Maia, Marina Yamaguti, Paola Lopes
-- **Data:** 08/08/2023
+- **Data:** 13/09/2023
 - **Status:** Concluído
 - **Descrição:** Solução do problema da automatização da biblioteca.
 - **Link:** https://github.com/DudaWendelMaia/LP.git
