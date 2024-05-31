@@ -1,6 +1,19 @@
-# Trabalho 4
+# 🔎 Prolog
 
-## Definição:
+<div align="center"> 
+<img width="200" height="200" src="https://media.tenor.com/GyivQbKGuM4AAAAi/hello-hi.gif">
+</div>
+
+## ℹ️ Informações
+
+- **Autores:** Maria Maia, Marina Yamaguti, Paola Lopes
+- **Data:** 08/08/2023
+- **Status:** Concluído
+- **Descrição:** Solução do problema da automatização da biblioteca.
+- **Link:** https://github.com/DudaWendelMaia/LP.git
+
+## 🎯 Problema
+
 Você já conhece a árvore genealógica a seguir. No entanto, após fazer uma pesquisa,
 descobriu-se quem são os pais de Ana, Ivo, Bia e Gil.
 
@@ -24,3 +37,16 @@ apresentar as respostas X = anae X = ivo.
 filha, tio, tia, primo, prima, avô, avó, bisavô e bisavó. 
 5. Inclua na árvore genealógica novos descendentes, nos níveis pai/mãe,
 filho/filha. 
+
+## ▶️ Como executar
+
+- O código está disponível na pasta "swish.pl", e pode ser executado no site abaixo:
+  ```sh
+  https://swish.swi-prolog.org/
+  ```
+- Para executar o código, clique no botão Run localizado no canto inferior direito.
+- O console na parte lateral da tela exibirá o programa executando.
+
+---
+
+Espero que este trabalho tenha sido útil! 🚀🌟
