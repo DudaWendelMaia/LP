@@ -24,12 +24,12 @@ lista, listar todos os itens disponíveis ou sair da aplicação.
 
 ## ▶️ Como executar
 
-O código está disponível na pasta "T3 Haskell", e pode ser executado no site abaixo:
+- O código está disponível na pasta "T3 Haskell", e pode ser executado no site abaixo:
   ```sh
   https://replit.com/@marinagelleryam/T3Linguagens#Main.hs
   ```
-Para executar o código, clique no botão Run localizado no topo central da interface do Replit.
-O console na parte inferior da tela exibirá a saída do seu programa.
+- Para executar o código, clique no botão Run localizado no topo central da interface do Replit.
+- O console na parte inferior da tela exibirá o programa executando.
 
 ---
 
