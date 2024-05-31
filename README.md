@@ -1,7 +1,7 @@
 # 🖥️ Linguagens de Programação
 
 <div align="center">
- <img height=150 width=250 src="https://media.tenor.com/iOc4hqMDGuEAAAAj/bubu-dudu-love.gif">
+ <img height=150 width=250 src="https://media.tenor.com/mKMXJtjSv7YAAAAi/peachcat-new.gif">
 </div>
 
 Bem-vindo ao repositório da disciplina de **Linguagens de Programação**! Aqui, você encontrará os trabalhos, projetos entre outras coisas que realizei durante esta cadeira.
