@@ -1,4 +1,4 @@
-# 🔎 Linguagens da Programação
+# 🔎 Haskell
 
 <div align="center"> 
 <img width="200" height="200" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
