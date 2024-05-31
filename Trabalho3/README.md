@@ -1,7 +1,7 @@
 # 🔎 Linguagens da Programação
 
 <div align="center"> 
-<img width="200" height="200" src="https://media.tenor.com/mqvLadAFFtMAAAAi/thinking-about-question-mark.gif">
+<img width="200" height="200" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 </div>
 
 ## ℹ️ Informações
